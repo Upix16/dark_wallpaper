@@ -2,7 +2,8 @@
 pkg install figlet -y
 pkg install neofetch -y
 clear
-toilet --metal "MR_DARK THEME ME"
+toilet --metal "MR_DARK"
+toilet --metal "WALLPAPER"
 xdg-open  https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A
 echo '[+] Author : MR_DARK'
 echo '[+] Team : DARK NETWORK'
@@ -85,4 +86,4 @@ PS1="\e[1;31m≑\e[1;33m[\e[1;31m$target\e[1;33m]≑\e[1;32m══\e[1;31m≑[\e
 echo -e '\e[3 q'
 echo -ne "\033]12;#00ff00\007"
 LOGIN
-echo -e "\e[1;32mTarget Anda Telah Di deface\e[0m"
+echo -e "\e[1;32mLu Berhasil Mempercantik Terminal eluuu BTW SUBREK \e[0m"
