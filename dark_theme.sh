@@ -75,9 +75,7 @@ c='\[\e[1;36m\]'
 w='\[\e[1;37m\]'
 
 # simple kali prompt
-PS1="\e[1;31m≑\e[1;33m[\e[1;31m$target\e[1;33m]≑\e[1;32m══\e[1;31m≑[\e[1;36m\w\e[1;31m]\e[0;35m\e[1;31m≑\e[1;32m══\e[1;31m≑\e[0;35m[\e[0;36m\@\e[0;35m]\e[1;36m
-║HOME║~~
-\e[0;37m╚══════≑═\e[1;32m≽ "
+PS1="\e[1;32m> "
 
 # 2nd prompt
 #PS1="\n$r╔═[ $c\@ $r] [ $c\V $r] [ $c$nifce $r] [ $c\W $r] [ $c\j $r]\n$r║ \n$r╚═[$c th3unkn0n $r] $c>> "
